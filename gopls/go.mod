@@ -26,4 +26,8 @@ require (
 
 )
 
+replace mvdan.cc/gofumpt => github.com/mvdan/gofumpt v0.6.0
+
+replace mvdan.cc/xurls/v2 => github.com/mvdan/xurls/v2 v2.5.0
+
 replace golang.org/x/tools => ../
